@@ -10,7 +10,7 @@ import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 import os
 
-
+####################################################In this section the request is sent to the site###############################################
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(options = options)
@@ -18,7 +18,7 @@ driver.get('https://coinmarketcap.com/historical/20230825/')
 t = driver.find_elements(By.CSS_SELECTOR, '.cmc-table-row a')
 driver.quit
 
-
+#####################################3 names,rank,urls,historicallinks,symbol,tags,github url is extracted######################################
 urls_list = []
 for i in t:
     urls_list.append(i.get_attribute('href'))
@@ -27,6 +27,7 @@ first20
 others = urls_list[60:]
 others
 MainLinks = first20 + others
+
 
 ranks =list(range(1,201))
 
@@ -73,7 +74,7 @@ for i in t:
             m.append(j.text)      
     tags.append(m)
 
-
+#############################Data is saved#######################################################
 df = pd.DataFrame({'Rank':ranks,
                    'Name':names,
                     'Symbol':symbol,
@@ -86,7 +87,7 @@ df.to_csv('CoinMarketCap.csv',index=False)
 
 
 
-################ download csv at once
+################ download csv at once################################################################
 
 
 # def download(url):
@@ -109,7 +110,7 @@ df.to_csv('CoinMarketCap.csv',index=False)
 
 
 
-# download csv one by one
+#################################################### download csv one by one###############################################3
 
 
 for i in HistoricalLinks:
