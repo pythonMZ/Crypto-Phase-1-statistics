@@ -50,16 +50,18 @@ for i in t:
     symbol.append(i.find(class_='sc-16891c57-0 cjeUNx base-text').text)
 
 github_link=[]
+po=0
 for i in t:
     k=i.find_all(rel='nofollow noopener')
     d=0
     for j in k:
-        if  'https://github.com/' in j.get('href'):
+        if  'https://github.com/' in j.get('href') and len(j.get('href').split('https://github.com/')[1].split('/'))<=3:
             github_link.append(j.get('href'))
-            d=1
+            d=1 
             break
     if d==0:
         github_link.append(None)
+    po+=1 
 
 
 tags=[]
