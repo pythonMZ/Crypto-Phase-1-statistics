@@ -33,7 +33,9 @@ ranks =list(range(1,201))
 
 names = []
 for i in MainLinks:
-    names.append(i[37:-1])
+    page = requests.get(i)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    names.append(soup.find(class_='sc-16891c57-0 iSrqCq').text[:-6])
 
 HistoricalLinks=[]
 for i in MainLinks:
