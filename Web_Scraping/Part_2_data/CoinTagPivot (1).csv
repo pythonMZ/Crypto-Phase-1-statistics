@@ -1,0 +1,564 @@
+Name,Tags
+Bitcoin,Mineable
+Bitcoin,PoW
+Bitcoin,SHA-256
+Ethereum,PoS
+Ethereum,Smart Contracts
+Ethereum,Ethereum Ecosystem
+Tether USDt,Payments
+Tether USDt,Stablecoin
+Tether USDt,Asset-Backed Stablecoin
+BNB,Marketplace
+BNB,Centralized Exchange (CEX) Token
+BNB,Payments
+XRP,Medium of Exchange
+XRP,Enterprise Solutions
+XRP,Arrington XRP Capital Portfolio
+USD Coin,Medium of Exchange
+USD Coin,Stablecoin
+USD Coin,Asset-Backed Stablecoin
+Cardano,DPoS
+Cardano,PoS
+Cardano,Platform
+Dogecoin,Mineable
+Dogecoin,PoW
+Dogecoin,Scrypt
+Solana,PoS
+Solana,Platform
+Solana,Solana Ecosystem
+TRON,Media
+TRON,Payments
+TRON,TRON Ecosystem
+Polkadot,Substrate
+Polkadot,Polkadot
+Polkadot,Binance Chain
+Dai,DeFi
+Dai,Stablecoin
+Dai,Asset-Backed Stablecoin
+Polygon,PoS
+Polygon,Platform
+Polygon,Enterprise Solutions
+Toncoin,PoS
+Toncoin,DWF Labs Portfolio
+Toncoin,Toncoin Ecosystem
+Litecoin,Mineable
+Litecoin,PoW
+Litecoin,Scrypt
+Shiba Inu,Memes
+Shiba Inu,Ethereum Ecosystem
+Shiba Inu,Doggone Doggerel
+Wrapped Bitcoin,Medium of Exchange
+Wrapped Bitcoin,DeFi
+Wrapped Bitcoin,Wrapped Tokens
+Bitcoin Cash,Mineable
+Bitcoin Cash,PoW
+Bitcoin Cash,SHA-256
+UNUS SED LEO,Marketplace
+UNUS SED LEO,Centralized Exchange (CEX) Token
+UNUS SED LEO,Discount Token
+Avalanche,DeFi
+Avalanche,Smart Contracts
+Avalanche,Three Arrows Capital Portfolio
+Stellar,Medium of Exchange
+Stellar,Enterprise Solutions
+Stellar,Decentralized Exchange (DEX) Token
+Chainlink,Platform
+Chainlink,DeFi
+Chainlink,Oracles
+Binance USD,Stablecoin
+Binance USD,Asset-Backed Stablecoin
+Binance USD,Binance Chain
+TrueUSD,Store Of Value
+TrueUSD,Stablecoin
+TrueUSD,Asset-Backed Stablecoin
+Uniswap,Decentralized Exchange (DEX) Token
+Uniswap,DeFi
+Uniswap,DAO
+Monero,Mineable
+Monero,PoW
+Monero,Medium of Exchange
+OKB,Marketplace
+OKB,Centralized Exchange (CEX) Token
+OKB,Discount Token
+Cosmos,Platform
+Cosmos,Cosmos Ecosystem
+Cosmos,Content Creation
+Ethereum Classic,Mineable
+Ethereum Classic,PoW
+Ethereum Classic,Ethash
+Hedera,DAG
+Hedera,Marketplace
+Hedera,Enterprise Solutions
+Internet Computer,Platform
+Internet Computer,Distributed Computing
+Internet Computer,Collectibles & NFTs
+Filecoin,Mineable
+Filecoin,Distributed Computing
+Filecoin,Filesharing
+Mantle,Ethereum Ecosystem
+Mantle,Layer 2
+Mantle,DWF Labs Portfolio
+Lido DAO,DeFi
+Lido DAO,DAO
+Lido DAO,Three Arrows Capital Portfolio
+Cronos,Medium of Exchange
+Cronos,Cosmos Ecosystem
+Cronos,Centralized Exchange (CEX) Token
+Aptos,Binance Labs Portfolio
+Aptos,Aptos Ecosystem
+Aptos,Circle Ventures Portfolio
+Quant,Platform
+Quant,Interoperability
+Arbitrum,Scaling
+Arbitrum,DAO
+Arbitrum,DApp
+VeChain,Logistics
+VeChain,Data Provenance
+VeChain,IoT
+NEAR Protocol,Platform
+NEAR Protocol,Staking
+NEAR Protocol,Coinbase Ventures Portfolio
+Optimism,Layer 2
+Optimism,Optimism Ecosystem
+Maker,Store Of Value
+Maker,DeFi
+Maker,DAO
+Aave,DeFi
+Aave,DAO
+Aave,Yield Farming
+The Graph,AI & Big Data
+The Graph,Enterprise Solutions
+The Graph,DeFi
+Algorand,PoS
+Algorand,Platform
+Algorand,Research
+XDC Network,Enterprise Solutions
+XDC Network,Smart Contracts
+XDC Network,XDC Ecosystem
+USDD,Stablecoin
+USDD,Algorithmic Stablecoin
+USDD,Arbitrum Ecosystem
+Axie Infinity,Collectibles & NFTs
+Axie Infinity,Gaming
+Axie Infinity,Binance Launchpad
+The Sandbox,Collectibles & NFTs
+The Sandbox,Content Creation
+The Sandbox,Gaming
+Tezos,PoS
+Tezos,Platform
+Tezos,Enterprise Solutions
+Stacks,Mineable
+Stacks,Platform
+Stacks,Collectibles & NFTs
+MultiversX,Binance Launchpad
+MultiversX,Binance Labs Portfolio
+MultiversX,Electric Capital Portfolio
+EOS,Medium of Exchange
+EOS,Enterprise Solutions
+EOS,Smart Contracts
+Theta Network,Media
+Theta Network,Collectibles & NFTs
+Theta Network,Content Creation
+Immutable,Collectibles & NFTs
+Immutable,Zero Knowledge Proofs
+Immutable,Gaming
+Injective,PoS
+Injective,Platform
+Injective,Cosmos Ecosystem
+Fantom,Platform
+Fantom,Enterprise Solutions
+Fantom,DeFi
+Bitcoin SV,Mineable
+Bitcoin SV,PoW
+Bitcoin SV,SHA-256
+Decentraland,Platform
+Decentraland,Collectibles & NFTs
+Decentraland,Gaming
+Synthetix,Services
+Synthetix,Decentralized Exchange (DEX) Token
+Synthetix,DeFi
+Render,Art
+Render,Media
+Render,VR/AR
+ApeCoin,Collectibles & NFTs
+ApeCoin,Content Creation
+ApeCoin,Gaming
+Pax Dollar,Store Of Value
+Pax Dollar,Stablecoin
+Pax Dollar,Asset-Backed Stablecoin
+Neo,Platform
+Neo,Enterprise Solutions
+Neo,Smart Contracts
+THORChain,Cosmos Ecosystem
+THORChain,Decentralized Exchange (DEX) Token
+THORChain,DeFi
+Kava,Cosmos Ecosystem
+Kava,DeFi
+Kava,Binance Launchpad
+PAX Gold,BNB Chain
+PAX Gold,Tokenized Gold
+Tether Gold,Tokenized Gold
+eCash,Layer 1
+Flow,Platform
+Flow,Collectibles & NFTs
+Flow,Staking
+Rocket Pool,DeFi
+Rocket Pool,Liquid Staking Derivatives
+Chiliz,Sports
+Chiliz,Collectibles & NFTs
+Chiliz,Content Creation
+Gala,Collectibles & NFTs
+Gala,Gaming
+Gala,BNB Smart Chain
+Klaytn,Platform
+Klaytn,Enterprise Solutions
+Klaytn,Injective Ecosystem
+KuCoin Token,Marketplace
+KuCoin Token,Centralized Exchange (CEX) Token
+KuCoin Token,Discount Token
+Frax Share,DeFi
+Frax Share,Seigniorage
+Frax Share,Avalanche Ecosystem
+IOTA,DAG
+IOTA,Medium of Exchange
+IOTA,IoT
+Zcash,Mineable
+Zcash,PoW
+Zcash,Equihash
+Casper,Enterprise Solutions
+Casper,Arrington XRP Capital Portfolio
+Casper,Hashkey Capital Portfolio
+Sui,Binance Launchpool
+Sui,Coinbase Ventures Portfolio
+Sui,Binance Labs Portfolio
+Huobi Token,Marketplace
+Huobi Token,Centralized Exchange (CEX) Token
+Huobi Token,Discount Token
+BitTorrent(New),Platform
+BitTorrent(New),Distributed Computing
+BitTorrent(New),Filesharing
+Curve DAO Token,Decentralized Exchange (DEX) Token
+Curve DAO Token,DeFi
+Curve DAO Token,DAO
+Conflux,Mineable
+Conflux,PoW
+Conflux,Platform
+Mina,PoS
+Mina,Zero Knowledge Proofs
+Mina,Staking
+GateToken,Marketplace
+GateToken,Centralized Exchange (CEX) Token
+GateToken,Discount Token
+Terra Classic,Cosmos Ecosystem
+Terra Classic,Store Of Value
+Terra Classic,DeFi
+Trust Wallet Token,Wallet
+Trust Wallet Token,Polygon Ecosystem
+Trust Wallet Token,BNB Chain
+Pepe,Memes
+dYdX,DeFi
+dYdX,Derivatives
+dYdX,Zero Knowledge Proofs
+Compound,DeFi
+Compound,DAO
+Compound,Yield Farming
+Nexo,Services
+Nexo,Payments
+Nexo,Cardano Ecosystem
+GMX,Derivatives
+GMX,DEX
+GMX,Avalanche Ecosystem
+Bone ShibaSwap,Memes
+Bone ShibaSwap,Doggone Doggerel
+APENFT,Art
+APENFT,Collectibles & NFTs
+APENFT,TRON Ecosystem
+WOO Network,Centralized Exchange (CEX) Token
+WOO Network,Three Arrows Capital Portfolio
+WOO Network,Exnetwork Capital Portfolio
+Gemini Dollar,Store Of Value
+Gemini Dollar,Stablecoin
+Gemini Dollar,Asset-Backed Stablecoin
+Flare,DWF Labs Portfolio
+Astar,Polkadot
+Astar,Polkadot Ecosystem
+Astar,OKEx Blockdream Ventures Portfolio
+Dash,Mineable
+Dash,Hybrid - PoW & PoS
+Dash,X11
+Akash Network,Cosmos Ecosystem
+Akash Network,AI & Big Data
+Akash Network,Distributed Computing
+PancakeSwap,Collectibles & NFTs
+PancakeSwap,Decentralized Exchange (DEX) Token
+PancakeSwap,DeFi
+MX TOKEN,Marketplace
+MX TOKEN,Centralized Exchange (CEX) Token
+MX TOKEN,Discount Token
+Arweave,Distributed Computing
+Arweave,Filesharing
+Arweave,Storage
+Zilliqa,Mineable
+Zilliqa,Platform
+Zilliqa,Payments
+Oasis Network,Cosmos Ecosystem
+Oasis Network,AI & Big Data
+Oasis Network,Collectibles & NFTs
+Gnosis,Services
+Gnosis,Decentralized Exchange (DEX) Token
+Gnosis,DeFi
+Basic Attention Token,Marketing
+Basic Attention Token,Content Creation
+Basic Attention Token,DeFi
+SafePal,Wallet
+SafePal,Binance Launchpad
+SafePal,Injective Ecosystem
+1inch Network,Decentralized Exchange (DEX) Token
+1inch Network,DeFi
+1inch Network,Wallet
+Sei,Coinbase Ventures Portfolio
+Sei,Multicoin Capital Portfolio
+Sei,Layer 1
+Chia,PoST
+Chia,Decentralized Exchange (DEX) Token
+Chia,DeFi
+Loopring,Marketplace
+Loopring,Decentralized Exchange (DEX) Token
+Loopring,DeFi
+Enjin Coin,Media
+Enjin Coin,Collectibles & NFTs
+Enjin Coin,Gaming
+Helium,Mineable
+Helium,Enterprise Solutions
+Helium,Distributed Computing
+Qtum,Platform
+Qtum,Smart Contracts
+Qtum,Kenetic Capital Portfolio
+Ethereum Name Service,DAO
+Ethereum Name Service,Governance
+Ethereum Name Service,Web3
+NEM,PoI
+NEM,Medium of Exchange
+NEM,Payments
+Bitcoin Gold,Mineable
+Bitcoin Gold,Medium of Exchange
+Bitcoin Gold,Payments
+SingularityNET,Marketplace
+SingularityNET,AI & Big Data
+SingularityNET,Payments
+Convex Finance,DeFi
+Convex Finance,Yield Aggregator
+Mask Network,Communications & Social Media
+Mask Network,Collectibles & NFTs
+Mask Network,Content Creation
+Celo,PoS
+Celo,Zero Knowledge Proofs
+Celo,Mobile
+Theta Fuel,Media
+Theta Fuel,Content Creation
+Theta Fuel,DeFi
+Decred,Mineable
+Decred,Hybrid - PoW & PoS
+Decred,BLAKE256
+Ankr,Platform
+Ankr,Cosmos Ecosystem
+Ankr,Enterprise Solutions
+Ravencoin,Mineable
+Ravencoin,PoW
+Ravencoin,Platform
+Osmosis,Cosmos Ecosystem
+Osmosis,Injective Ecosystem
+Ocean Protocol,Platform
+Ocean Protocol,AI & Big Data
+Ocean Protocol,DeFi
+yearn.finance,DeFi
+yearn.finance,DAO
+yearn.finance,Yield Farming
+Livepeer,Coinfund Portfolio
+Livepeer,DCG Portfolio
+Livepeer,Pantera Capital Portfolio
+Holo,Platform
+Holo,Distributed Computing
+Holo,Filesharing
+JUST,DeFi
+JUST,TRON Ecosystem
+STEPN,Collectibles & NFTs
+STEPN,Gaming
+STEPN,BNB Smart Chain
+Balancer,Decentralized Exchange (DEX) Token
+Balancer,DeFi
+Balancer,DAO
+aelf,Marketplace
+aelf,Enterprise Solutions
+aelf,Arrington XRP Capital Portfolio
+Fetch.ai,Cosmos Ecosystem
+Fetch.ai,AI & Big Data
+Fetch.ai,Collectibles & NFTs
+Blur,Collectibles & NFTs
+Waves,LPoS
+Waves,Platform
+Waves,Smart Contracts
+Golem,Platform
+Golem,Distributed Computing
+Golem,Payments
+Aragon,Platform
+Aragon,Enterprise Solutions
+Aragon,DAO
+Audius,Music
+Audius,DAO
+Audius,Coinbase Ventures Portfolio
+JasmyCoin,IoT
+JasmyCoin,Ethereum Ecosystem
+JasmyCoin,DWF Labs Portfolio
+FLOKI,Gaming
+FLOKI,Memes
+FLOKI,Metaverse
+Threshold,Bitcoin Ecosystem
+ICON,Platform
+ICON,Enterprise Solutions
+ICON,Interoperability
+Kusama,Substrate
+Kusama,Polkadot Ecosystem
+Kusama,CMS Holdings Portfolio
+Siacoin,Mineable
+Siacoin,PoW
+Siacoin,Blake2b
+Worldcoin,Privacy
+Worldcoin,Zero Knowledge Proofs
+Worldcoin,Identity
+Solar,Medium of Exchange
+Solar,DeFi
+Solar,Payments
+Terra,Alleged SEC Securities
+Illuvium,Collectibles & NFTs
+Illuvium,Gaming
+Illuvium,DAO
+Hive,DPoS
+Hive,Media
+Hive,Content Creation
+0x Protocol,Platform
+0x Protocol,Decentralized Exchange (DEX) Token
+0x Protocol,DeFi
+EthereumPoW,PoW
+Ontology,Enterprise Solutions
+Ontology,Identity
+Ontology,Metaverse
+ssv.network,Platform
+ssv.network,DeFi
+ssv.network,Staking
+Moonbeam,Smart Contracts
+Moonbeam,Substrate
+Moonbeam,Polkadot
+IOST,Hardware
+IOST,IoT
+IOST,Huobi Capital Portfolio
+Band Protocol,Cosmos Ecosystem
+Band Protocol,DeFi
+Band Protocol,Oracles
+Biconomy,Platform
+Biconomy,Interoperability
+Biconomy,Coinbase Ventures Portfolio
+Harmony,Platform
+Harmony,Enterprise Solutions
+Harmony,Scaling
+WAX,Media
+WAX,Collectibles & NFTs
+WAX,Gaming
+SushiSwap,Collectibles & NFTs
+SushiSwap,Decentralized Exchange (DEX) Token
+SushiSwap,DeFi
+Axelar,Interoperability
+Axelar,Ethereum Ecosystem
+Axelar,Coinbase Ventures Portfolio
+IoTeX,Platform
+IoTeX,IoT
+IoTeX,Hashkey Capital Portfolio
+MAGIC,Gaming
+MAGIC,Metaverse
+MAGIC,Arbitrum Ecosystem
+Merit Circle,Gaming
+Merit Circle,Binance Launchpool
+Merit Circle,Governance
+TerraClassicUSD,Cosmos Ecosystem
+TerraClassicUSD,Stablecoin
+TerraClassicUSD,Algorithmic Stablecoin
+Kadena,Mineable
+Kadena,PoW
+Kadena,Blake2S
+UniBot,Ethereum Ecosystem
+UniBot,Telegram Bot
+BORA,Marketplace
+BORA,Gaming
+Nervos Network,Mineable
+Nervos Network,PoW
+Nervos Network,Platform
+DigiByte,Mineable
+DigiByte,PoW
+DigiByte,Multiple algorithms
+Stargate Finance,Ethereum Ecosystem
+Stargate Finance,Avalanche Ecosystem
+Stargate Finance,Polygon Ecosystem
+DAO Maker,DeFi
+DAO Maker,Governance
+DAO Maker,Launchpad
+MobileCoin,Privacy
+MobileCoin,Payments
+MobileCoin,Arrington XRP Capital Portfolio
+Ribbon Finance,Derivatives
+Ribbon Finance,Coinbase Ventures Portfolio
+Ribbon Finance,Real World Assets
+Core,Platform
+SKALE,Platform
+SKALE,Scaling
+SKALE,Smart Contracts
+Flux,Mineable
+Flux,PoW
+Flux,Distributed Computing
+UMA,DeFi
+UMA,Derivatives
+UMA,Oracles
+Horizen,Mineable
+Horizen,PoW
+Horizen,Medium of Exchange
+Galxe,Binance Launchpool
+Galxe,MVB
+Galxe,Spartan Group
+Reserve Rights,Store Of Value
+Reserve Rights,DeFi
+Reserve Rights,Coinbase Ventures Portfolio
+TomoChain,Platform
+TomoChain,Alameda Research Portfolio
+TomoChain,Injective Ecosystem
+Everscale,Everscale Ecosystem
+STP,DeFi
+STP,Payments
+Lisk,DPoS
+Lisk,Platform
+Lisk,Enterprise Solutions
+Nano,DAG
+Nano,Blake2b
+Nano,Medium of Exchange
+Storj,Platform
+Storj,Distributed Computing
+Storj,Filesharing
+Alchemy Pay,DWF Labs Portfolio
+Kyber Network Crystal v2,Marketplace
+Kyber Network Crystal v2,Decentralized Exchange (DEX) Token
+Kyber Network Crystal v2,DeFi
+Cartesi,PoS
+Cartesi,Platform
+Cartesi,Cosmos Ecosystem
+Celer Network,Platform
+Celer Network,Enterprise Solutions
+Celer Network,Zero Knowledge Proofs
+PlayDapp,Gaming
+PlayDapp,Ethereum Ecosystem
+PlayDapp,Metaverse
+Vulcan Forged PYR,Collectibles & NFTs
+Vulcan Forged PYR,Gaming
+Vulcan Forged PYR,Entertainment
+Status,Media
+Status,Content Creation
+Status,Privacy
+Amp,SEC Security Token
+Amp,Alleged SEC Securities
